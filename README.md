@@ -15,5 +15,3 @@ This project demonstrates how to process and analyze the [Yelp Open Dataset](htt
 
 ---
 
-## 📁 Folder Structure
-
