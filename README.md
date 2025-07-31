@@ -4,7 +4,7 @@ This project demonstrates how to process and analyze the [Yelp Open Dataset](htt
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Data Source:** Yelp Open Dataset
 - **Cloud Storage:** AWS S3
@@ -15,23 +15,23 @@ This project demonstrates how to process and analyze the [Yelp Open Dataset](htt
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 yelp-data-analysis/ ├── data/ # Instructions or placeholders for dataset ├── scripts/ # All SQL and Python scripts └── README.md # Project overview and guide
 
 
 ---
 
-## 📦 Dataset
+##  Dataset
 
 The dataset used in this project can be downloaded from:
-👉 https://business.yelp.com/data/resources/open-dataset/
+ https://business.yelp.com/data/resources/open-dataset/
 
-> ⚠️ Note: The dataset is quite large (8+ GB uncompressed). Upload to `AWS S3` before executing SQL scripts.
+>  Note: The dataset is quite large (8+ GB uncompressed). Upload to `AWS S3` before executing SQL scripts.
 
 ---
 
-## 🛠️ Setup & Steps
+##  Setup & Steps
 
 1. **Download & Extract Dataset**  
    - Unzip the `.tar` file using Python to avoid file corruption.
@@ -48,7 +48,7 @@ The dataset used in this project can be downloaded from:
 
 ---
 
-## 📊 Sample Queries Included
+##  Sample Queries Included
 
 - Number of businesses per category
 - Most active reviewers in the Restaurants category
@@ -60,6 +60,6 @@ The dataset used in this project can be downloaded from:
 
 ---
 
-## 📄 License
+##  License
 
 MIT License – feel free to use and adapt this project with credit.
