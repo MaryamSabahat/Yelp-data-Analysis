@@ -17,7 +17,10 @@ This project demonstrates how to process and analyze the [Yelp Open Dataset](htt
 
 ##  Folder Structure
 
-yelp-data-analysis/ ├── data/ # Instructions or placeholders for dataset ├── scripts/ # All SQL and Python scripts └── README.md # Project overview and guide
+yelp-data-analysis/
+├── data/ # Instructions or placeholders for dataset
+├── scripts/ # All SQL and Python scripts 
+└── README.md # Project overview and guide
 
 
 ---
